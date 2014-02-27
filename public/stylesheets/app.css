@@ -1,0 +1,20 @@
+.tagline
+{
+	line-height: 50px;
+	color:gray;
+	width:100%;
+	text-align: center;
+}
+
+.upload_button
+{
+	position: relative;
+	top:350px;
+	width: 100%;
+}
+
+.container
+{
+	position: relative;
+	padding-top:5%;
+}

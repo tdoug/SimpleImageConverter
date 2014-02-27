@@ -1,0 +1,7 @@
+extends layout
+block content
+	.row
+		div(class='col-md-6')
+			form(action='/convert' method="post", enctype="multipart/form-data", id="uploadform", class="dropzone")
+		div(class='col-md-6' id="results")
+			p Your converted images will display here.

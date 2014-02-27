@@ -1,0 +1,14 @@
+{
+  "name": "SimpleImageConverter",
+  "version": "1.0.0", 
+  "author": "Tom Douglas <tom@fluidcreations.net>",
+  "private": true,
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "dependencies": {
+    "express": "*",
+    "jade": "*",
+    "stylus": "*"
+  }
+}
