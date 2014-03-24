@@ -3,7 +3,7 @@ SimpleImageConverter
 
 A drag-and-drop image converter using Node.JS, Express, and Jade.
 
-I hope this will be a useful example program for aspirin Node.js developers.
+I hope this will be a useful example program for aspiring Node/Express developers.
 
 My TODO
 =====================
