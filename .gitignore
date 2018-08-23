@@ -1,1 +1,5 @@
 node_modules/
+/public/converted.png
+/public/converted.jpeg
+/public/converted.gif
+/.DS_Store
